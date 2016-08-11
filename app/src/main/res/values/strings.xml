@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Para-Aktivitätsfinder</string>
+    <string name="title_activity_select_source">SelectSource</string>
+    <string name="large_text">
+        Bla
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
